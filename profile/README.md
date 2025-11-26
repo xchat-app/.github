@@ -1,5 +1,7 @@
-XChat is a streamlined, privacy-focused messaging application built on the Nostr protocol, designed for secure communication within closed, private groups like family and friends.
-Key Features:
+**XChat is a streamlined, privacy-focused messaging application built on the Nostr protocol, designed for secure communication within closed, private groups like family and friends.**
+
+**Key Features:**
+
 * No phone numbers, emails, or permanent identifiers
 * End-to-end encryption for all messages/medias
 * Open-source and transparent
@@ -8,10 +10,11 @@ Key Features:
 * Two-way chat/message deletion
 * No user tracking or data collection
 
+**Why Choose XChat:**
 
-Why Choose XChat:
 XChat prioritizes your privacy above all else. Built on the decentralized Nostr network, it ensures your conversations stay private and secure without unnecessary complexity. Perfect for family groups, close friends, and anyone who values intimate, secure communication.
-Perfect For:
+
+**Perfect For:**
 
 * Family groups and close friends
 * Private business discussions
