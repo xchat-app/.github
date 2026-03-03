@@ -5,7 +5,6 @@ XChat is a streamlined, privacy-focused messaging application built on the Nostr
 
 **Key Features:**
 
-* No phone numbers, emails, or permanent identifiers
 * End-to-end encryption for all messages/medias
 * Open-source and transparent
 * Encrypted media sharing
